@@ -1,0 +1,65 @@
+html{
+
+    margin: 0 5%;
+
+}
+
+#menu{
+    background-color: aquamarine !important;
+}
+
+#titulo-logo{
+    margin: 20px 0px;
+}
+
+#info-mid{
+    display: flex;    
+    
+}
+
+#parag-texto{
+
+    
+    margin: 0 15px;
+
+
+}
+#segundos{
+
+    font-size: 30px;
+    
+}
+
+.list-result{
+    padding-top: 50px;
+    list-style: none;
+    font-size: 40px;
+    
+}
+
+.anunciotop{
+
+    padding-bottom: 2%;
+}
+
+#list-time{
+    position: relative;
+}
+
+
+#btn-refresh{
+    margin: 50px 20px;
+}
+
+.anunciobottom{
+    margin:2% 0%;
+}
+
+textarea[cod='cor-verde']{
+    background-color: aquamarine;
+    border: 3px solid green;
+}
+
+textarea[cods='cor-vermelha']{
+    background-color: red;
+}
